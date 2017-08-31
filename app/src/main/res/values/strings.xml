@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App IA - PLN</string>
+    <string name="processar">Processar</string>
+    <string name="digite_algum_texto">Digite algum texto</string>
+    <string name="camera">camera</string>
+    <string name="texto_input">Texto input</string>
+</resources>
