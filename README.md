@@ -1,2 +1,3 @@
-# trab-ia-pln
-Text recoginition
+# Text recognition
+
+Testing Google API to text recognition
