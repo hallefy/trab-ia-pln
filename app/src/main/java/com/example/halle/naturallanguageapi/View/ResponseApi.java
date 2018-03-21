@@ -22,7 +22,7 @@ import java.util.List;
  */
 
 public class ResponseApi {
-    String API_KEY = "AIzaSyDfKOkV9s0UsfPUf3wzMBuZfO0qFVaYt14";
+    String API_KEY = "YOUR KEY HERE";
 
     String processor = null;
 
